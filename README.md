@@ -8,6 +8,7 @@ It is not a great contribution to the world but probably I will need it myself i
 I hope you (or anyone) find(s) them helpful.
 
 [Remote Monitoring](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/remote_monitoring.md)
+
 <br />
 ---
 [Get Started with **MXChip** - Configuration](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/mx_chip.md)
