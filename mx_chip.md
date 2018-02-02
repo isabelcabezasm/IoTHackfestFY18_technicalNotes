@@ -20,7 +20,7 @@ https://microsoft.github.io/azure-iot-developer-kit/docs/get-started/
 
 3. Upgrade the firmware <br/> 
 Only the 1st time- <br/>
-(guide: gttps://microsoft.github.io/azure-iot-developer-kit/docs/firmware-upgrading/ )  -> just copy & paste a file!
+(guide: https://microsoft.github.io/azure-iot-developer-kit/docs/firmware-upgrading/ )  -> just copy & paste a file!
 
 4. Development environment
 
