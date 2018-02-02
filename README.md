@@ -12,6 +12,8 @@ I hope you (or anyone) find(s) them helpful.
 
 ---
 <br />
+
+
 [Get Started with **MXChip** - Configuration](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/mx_chip.md)
 
 [Install an app in your **MXChip**](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/mx_chip_app.md)
