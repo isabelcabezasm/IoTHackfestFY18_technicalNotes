@@ -18,7 +18,7 @@
 	
     ○ And change the logo: add it in "assets/icons" and edit the file: src/components/layout/leftNav/leftNav.js, change the line
 		
-            import ContosoIcon from '../../../assets/icons/Contoso.svg';
+        import ContosoIcon from '../../../assets/icons/Contoso.svg';
 
 3. <b> Try it! </b>
 
@@ -35,5 +35,57 @@ https://store.docker.com/editions/community/docker-ce-desktop-windows
 5. <b> Build </b>
 
         .\build.cmd
+![Build console](images/01_console_build01.png)
 
-        
+![Build console process](images/01_console_build02.png)
+
+![Successfully built](images/01_console_build03.png)
+       
+
+6. <b> Run </b>        
+
+        run.cmd testing
+
+
+![Console running](images/02_console_run01.png)
+![Console running process](images/02_console_run02.png)
+
+
+Now go to your browser: 
+
+![Go to the portal page](images/03_browser.png)
+
+YEY!!!
+
+![How you must see the portal page](images/03_portal.png)
+
+
+
+7. <b> Publish </b>
+
+	But first....
+	
+	- Create a registry in your Azure account: Azure Container Registry
+	- Name without capital letters
+	- Enable administrator user
+
+![Create a registry](images/04_registry.png)
+
+
+
+        	docker login  server -u user -p password
+
+
+![login  - where you can find the login parameters](images/05_upload_to_registry.png)
+
+
+And now yes… publish in the registry!!
+
+- Tag the build
+![publish the image in the registry](images/05_publish.png)
+
+
+- And push….
+![upload the image to the registry](images/05_push.png)
+
+
