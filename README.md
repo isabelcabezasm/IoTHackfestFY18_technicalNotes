@@ -31,8 +31,16 @@ I hope you (or anyone) find(s) them helpful.
 [**Docker** basics for Remote Monitoring](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/docker_for_RM.md)
 
 
+<br />
+---
+
+[**IoT Edge** get starting](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/iotedge.md)
+
+[**IoT Edge** in Intel Nuc](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/iotedge_nuc.md)
 
 
+<br />
+---
 
-
+[**IoT Hub** -> Azure Functions](https://github.com/isabelcabezasm/IoTHackfestFY18_technicalNotes/blob/master/iothub_funtions.md)
 
