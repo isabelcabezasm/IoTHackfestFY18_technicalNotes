@@ -57,7 +57,7 @@ Now go to your browser:
 
 YEY!!!
 
-![How you must see the portal page](images/03_portal.png)
+![How you must see the portal page](images/03_portal.PNG)
 
 
 
