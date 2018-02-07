@@ -89,3 +89,48 @@ And now yes… publish in the registry!!
 ![upload the image to the registry](images/05_push.png)
 
 
+8. Access to the VM where the Remote Monitoring v2 is.
+
+9. Download the "image" from your Azure Container Registry and DEPLOY it.
+
+![container list](images/06_containers.PNG)
+
+
+Open this file and change some things:
+
+![open file compose](images/06_openfile.png)
+
+
+<b>Change:</b> in the file:
+- "isaregistry.azurecr.io" (put your registry, not mine! ;)) change also de tag (I put 2.0, not 1.0)
+
+
+Exit and save.
+
+Now, login in your azure container registry. 
+Like that:
+
+![docker login ](images/06_login.png)
+
+
+
+        > sudo ./start.h
+
+![run start](images/06_start.png)
+
+
+    - This step download and deploy the image of the container that we had in our azure container registry 
+
+![run start](images/06_start02.png)
+
+
+Check it with 
+
+        > docker ps
+
+
+And see the results:
+
+![results of docker ps](images/06_dockerps.png)
+
+
