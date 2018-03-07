@@ -1,6 +1,6 @@
 # Connect MXChip and Remote Monitoring V2
 
-Clone the example repository: https://github.com/jmservera/devkit-sdk/tree/master/AZ3166/src/libraries/AzureIoT/examples/RemoteMonitoringv2  
+Clone the example repository: https://github.com/Microsoft/devkit-sdk/tree/master/AZ3166/src/libraries/AzureIoT/examples/RemoteMonitoringv2
 
 Browser to >devkit-sdk\AZ3166\src\libraries\AzureIoT\examples\RemoteMonitoringv2 
 and open RemoteMonitoring.ino 
@@ -26,7 +26,7 @@ Continuing.... and Success!!
 
 Now you can see a new device in the list:
 
-![new device ](images/03_new_device.png)
+![new device ](images/03_new_device.PNG)
 
 And NOW we are sending data to the cloud!!
 
